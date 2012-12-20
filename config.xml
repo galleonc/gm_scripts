@@ -1,0 +1,216 @@
+<UserScriptConfig>
+	<Script filename="unkzone.user.js" name="unkzone" namespace="unkzone.net" description="" version="" enabled="false" runAt="document-end" basedir="unkzone" modified="1315505676365" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709">
+		<Include>http://206.108.54.44</Include>
+	</Script>
+	<Script filename="12306_booking_assistant.user.js" name="12306 Booking Assistant" namespace="https://github.com/zzdhidden" description="12306 订票助手之(自动登录，自动查票，自动订单)" version="1.4.0" enabled="false" runAt="document-end" basedir="12306_booking_assistant" modified="1348052774810" dependhash="04439a3cdd179f52db6e4cf3d3eca85a7813c56b" installurl="https://github.com/zzdhidden/12306/raw/master/12306BookingAssistant.user.js">
+		<Include>*://dynamic.12306.cn/otsweb/*</Include>
+		<Require filename="jquerymin.js"/>
+	</Script>
+	<Script filename="dmm.user.js" name="DMM" namespace="http://*.dailim.co/" description="" version="" enabled="true" runAt="document-end" basedir="dmm" modified="1352314893905" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709">
+		<Include>http://*.dailim.co/*</Include>
+		<Include>http://www.dmm.co.jp/*</Include>
+	</Script>
+	<Script filename="getchu.user.js" name="Getchu" namespace="http://*.getchu.com/" description="" version="" enabled="true" runAt="document-end" basedir="getchu" modified="1350195955348" dependhash="bd7f043bb35ad2fec40235ec53fa96a9ca3149fb">
+		<Include>http://*.getchu.com/*</Include>
+		<Require filename="jquery.js"/>
+		<Require filename="jquerycookie.js"/>
+	</Script>
+	<Script filename="itokoo.user.js" name="itokoo" namespace="http://www.itokoo.com/" description="" version="120929" enabled="true" runAt="document-end" basedir="itokoo" modified="1353772641873" dependhash="3f067ca38cd08219ea23cb2bec13723c6b447c9a">
+		<Include>http://www.itokoo.com/searcher.php*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="bitlycom.user.js" name="bitly.com" namespace="https://bitly.com/bundles/" description="" version="" enabled="true" runAt="document-end" basedir="bitlycom" modified="1346183085177" dependhash="6d36ce5cb3cfbed4d912e7d768e2cf9016eccbf9">
+		<Include>https://bitly.com/bundles/</Include>
+		<Require filename="jquery.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="y9sq.user.js" name="y9sq" namespace="http://www.y9sq.com/" description="for Discuz! 7.2" version="120921" enabled="true" runAt="document-end" basedir="y9sq" modified="1352462045518" dependhash="07b2877938b4cd3f105146c6656a8aa8fc17b9cb">
+		<Include>http://www.y9sq.com/search.php*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="shanzhaiwang.user.js" name="shanzhaiwang" namespace="http://pic.shanzhaiwang.net/" description="" version="" enabled="true" runAt="document-end" basedir="shanzhaiwang" modified="1346769015519" dependhash="35cd1698dce4543c90a895c82a469ec027e981d0" installurl="file:///C:/Users/acer/AppData/Roaming/Mozilla/Firefox/Profiles/azxpaj1p.default/gm_scripts/shanzhaiwang/shanzhaiwang.user.js">
+		<Include>http://pic.shanzhaiwang.net/*</Include>
+		<Require filename="jquery.js"/>
+	</Script>
+	<Script filename="imoeoverblog.user.js" name="imoe.overblog" namespace="http://imoe.overblog.com" description="" version="" enabled="true" runAt="document-end" basedir="imoeoverblog" modified="1346940580525" dependhash="35cd1698dce4543c90a895c82a469ec027e981d0">
+		<Include>http://imoe.overblog.com/*</Include>
+		<Require filename="jquery.js"/>
+	</Script>
+	<Script filename="refso.user.js" name="ref.so" namespace="http://ref.so/" description="" version="" enabled="true" runAt="document-end" basedir="refso" modified="1350916153724" dependhash="a3ea09e8ec4a5966acdd75b49427e37304fe6645">
+		<Include>http://ref.so/*</Include>
+		<Require filename="jquery-132min.js"/>
+	</Script>
+	<Script filename="52bt.user.js" name="52bt" namespace="http://www.52bt.org/" description="" version="120925" enabled="true" runAt="document-end" basedir="52bt" modified="1348519612563" dependhash="67ab1c4b9d0707b688d03325f91262f181dd5626">
+		<Include>http://www.52bt.org/bbs/search.php*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="92taotu.user.js" name="92taotu" namespace="http://www.92taotu.com/" description="for Discuz! X2.5" version="120925" enabled="true" runAt="document-end" basedir="92taotu" modified="1348519865434" dependhash="67ab1c4b9d0707b688d03325f91262f181dd5626">
+		<Include>http://www.92taotu.com/forum.php?mod=guide&amp;view=new*</Include>
+		<Include>http://www.92taotu.com/forum-*.html</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="imageporter.user.js" name="imageporter" namespace="http://www.imageporter.com/" description="" version="121010" enabled="true" runAt="document-end" basedir="imageporter" modified="1349804544341" dependhash="e60e73e83fa51c8946f8803db3cd0fd8d4e5d01c">
+		<Include>http://imageporter.com/*/*.html</Include>
+		<Include>http://www.imageporter.com/*/*.html</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="postimage.user.js" name="postimage" namespace="http://postimage.org/" description="" version="121012" enabled="true" runAt="document-end" basedir="postimage" modified="1349972053860" dependhash="f7220ed4d51a8aea98e0d463c59086d91435a62d">
+		<Include>http://postimage.org/image/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="galgame.user.js" name="galgame" namespace="http://www.galgame.net/" description="for Discuz! 7.0.0" version="121028" enabled="true" runAt="document-end" basedir="galgame" modified="1354039735813" dependhash="c3315d873e4da903bc38c76a37bf0eaa13dbfc4d">
+		<Include>http://www.galgame.net/bbs/forumdisplay.php*</Include>
+		<Include>http://www.galgame.net/bbs/search.php?*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="dumpt.user.js" name="dumpt" namespace="http://www.dumpt.com/" description="" version="121213" enabled="true" runAt="document-end" basedir="dumpt" modified="1355329246285" dependhash="30c871a2017c6d82f12ab1e0258e6c7e03c33378">
+		<Include>http://www.dumpt.com/img/viewer.php*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="jandown.user.js" name="jandown" namespace="http://www.jandown.com/" description="" version="120921" enabled="true" runAt="document-end" basedir="jandown" modified="1348291471769" dependhash="07b2877938b4cd3f105146c6656a8aa8fc17b9cb">
+		<Include>http://www.jandown.com/link.php?*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="y9sq_search_redirect.user.js" name="y9sq_search_redirect" namespace="http://www.y9sq.com/" description="" version="" enabled="true" runAt="document-end" basedir="y9sq_search_redirect" modified="1348342099226" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709">
+		<Include>http://www.y9sq.com/plugin.php?id=easypages&amp;epid=5</Include>
+	</Script>
+	<Script filename="turboimagehost.user.js" name="turboimagehost" namespace="http://www.turboimagehost.com/" description="" version="120926" enabled="true" runAt="document-end" basedir="turboimagehost-1" modified="1350409089116" dependhash="1abab97051d2dc6f4a0d6b9011fff48e87eddd7d">
+		<Include>http://www.turboimagehost.com/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="adfly.user.js" name="adfly" namespace="http://adf.ly/" description="" version="121010" enabled="true" runAt="document-end" basedir="adfly" modified="1349802468804" dependhash="e60e73e83fa51c8946f8803db3cd0fd8d4e5d01c">
+		<Include>http://adf.ly/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="ihatepaidlinks_ihpl_anti.user.js" name="iHatePaidLinks (IHPL, Anti Adfly v2)" namespace="http://*www.softcreatr.de" description="Skip Paid Link redirects and forward directly to the target page" version="2.3.9" enabled="true" runAt="document-end" basedir="ihatepaidlinks_ihpl_anti" modified="1349802350722" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" installurl="http://userscripts.org/scripts/source/105301.user.js">
+		<Include>http*://*9.bb/*</Include>
+		<Include>http*://*adcraft.co/*</Include>
+		<Include>http*://*adf.ly/*</Include>
+		<Include>http*://*allanalpass.com/*</Include>
+		<Include>http*://*amy.gs/*</Include>
+		<Include>http*://*any.gs/*</Include>
+		<Include>http*://*awsclic.com/*</Include>
+		<Include>http*://*baberepublic.com/*</Include>
+		<Include>http*://*bat5.com/*</Include>
+		<Include>http*://*byb.me/*</Include>
+		<Include>http*://*celebclk.com/*</Include>
+		<Include>http*://*deb.gs/*</Include>
+		<Include>http*://*drstickyfingers.com/*</Include>
+		<Include>http*://*dyo.gs/*</Include>
+		<Include>http*://*eightteen.com/*</Include>
+		<Include>http*://*fapoff.com/*</Include>
+		<Include>http*://*filesonthe.net/*</Include>
+		<Include>http*://*galleries.bz/*</Include>
+		<Include>http*://*hornywood.tv/*</Include>
+		<Include>http*://*j.gs/*</Include>
+		<Include>http*://*linkbabes.com/*</Include>
+		<Include>http*://*linkbee.com/*</Include>
+		<Include>http*://*linkbucks.com/*</Include>
+		<Include>http*://*linkgalleries.net/*</Include>
+		<Include>http*://*linkseer.net/*</Include>
+		<Include>http*://*lnk.co/*</Include>
+		<Include>http*://*looble.net/*</Include>
+		<Include>http*://*miniurls.co/*</Include>
+		<Include>http*://*peekatmygirlfriend.com/*</Include>
+		<Include>http*://*picbucks.com/*</Include>
+		<Include>http*://*picturesetc.net/*</Include>
+		<Include>http*://*placepictures.com/*</Include>
+		<Include>http*://*poontown.net/*</Include>
+		<Include>http*://*pornyhost.com/*</Include>
+		<Include>http*://*q.gs/*</Include>
+		<Include>http*://*qqc.co/*</Include>
+		<Include>http*://*qvvo.com/*</Include>
+		<Include>http*://*realfiles.net/*</Include>
+		<Include>http*://*rqq.co/*</Include>
+		<Include>http*://*seriousdeals.net/*</Include>
+		<Include>http*://*seriousfiles.com/*</Include>
+		<Include>http*://*seriousurls.com/*</Include>
+		<Include>http*://*sexpalace.gs/*</Include>
+		<Include>http*://*smilinglinks.com/*</Include>
+		<Include>http*://*theseblogs.com/*</Include>
+		<Include>http*://*thesefiles.com/*</Include>
+		<Include>http*://*theseforums.com/*</Include>
+		<Include>http*://*thesegalleries.com/*</Include>
+		<Include>http*://*thosegalleries.com/*</Include>
+		<Include>http*://*tinybucks.net/*</Include>
+		<Include>http*://*tinylinks.co/*</Include>
+		<Include>http*://*tnabucks.com/*</Include>
+		<Include>http*://*tubeviral.com/*</Include>
+		<Include>http*://*u.bb/*</Include>
+		<Include>http*://*uberpicz.com/*</Include>
+		<Include>http*://*ubervidz.com/*</Include>
+		<Include>http*://*ubucks.net/*</Include>
+		<Include>http*://*ugalleries.net/*</Include>
+		<Include>http*://*ultrafiles.net/*</Include>
+		<Include>http*://*urlbeat.net/*</Include>
+		<Include>http*://*urlcash.net/*</Include>
+		<Include>http*://*urlcash.org/*</Include>
+		<Include>http*://*urlpulse.net/*</Include>
+		<Include>http*://*whackyvidz.com/*</Include>
+		<Include>http*://*xxxs.org/*</Include>
+		<Include>http*://*youfap.com/*</Include>
+		<Include>http*://*youfap.me/*</Include>
+		<Include>http*://*yyv.co/*</Include>
+		<Include>http*://*zff.co/*</Include>
+		<Include>http*://*zpag.es/*</Include>
+		<Include>http*://*zxxo.net/*</Include>
+	</Script>
+	<Script filename="imagebam.user.js" name="imagebam" namespace="http://www.imagebam.com/image/" description="" version="121108" enabled="true" runAt="document-end" basedir="imagebam" modified="1355076489523" dependhash="8d324107a96ec2fecc10744feaf53d144e1b0732">
+		<Include>http://www.imagebam.com/image/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="imgchili.user.js" name="imgchili" namespace="http://imgchili.com/" description="" version="121012" enabled="true" runAt="document-end" basedir="imgchili" modified="1349973320935" dependhash="f7220ed4d51a8aea98e0d463c59086d91435a62d">
+		<Include>http://imgchili.com/show/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="gm_script.user.js" name="千军万马" namespace="http://qjwm.com/" description="千军万马" version="20121107" enabled="true" runAt="document-end" basedir="gm_script" modified="1352232491764" dependhash="ae1040c8a518c29fb8b17244e0fa2bafbbb416dc">
+		<Include>http://*.qjwm.com/down_*.html</Include>
+		<Include>http://*.qjwm.com/download_*.html</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="soul-plus-task.user.js" name="soul-plus-task" namespace="http://bbs.soul-plus.net" description="" version="121015" enabled="true" runAt="document-end" basedir="soul-plus-task" modified="1350760231448" dependhash="355394dc85476f70ad0b0bcd05fd06bcb911c611">
+		<Include>http://bbs.soul-plus.net/hack.php?H_name=tasks*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="soul-plus.user.js" name="soul-plus" namespace="http://bbs.soul-plus.net" description="" version="121016" enabled="true" runAt="document-end" basedir="soul-plus" modified="1351420491184" dependhash="72fd08bcbfd38067f8869790360b53b89fc54e43">
+		<Include>http://bbs.soul-plus.net/thread.php?fid=*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="uusq.user.js" name="uusq" namespace="http://www.uusq.net/" description="悠悠网盘" version="121022" enabled="true" runAt="document-end" basedir="uusq" modified="1352396432798" dependhash="01df2f9debd9a3bdd0aa123482adf31e57b4138a">
+		<Include>http://www.uusq.net/file-*</Include>
+		<Include>http://www.uusq.net/down-*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="sankakucomplex.user.js" name="sankakucomplex" namespace="http://chan.sankakucomplex.com/" description="" version="121110" enabled="true" runAt="document-end" basedir="sankakucomplex" modified="1352539650622" dependhash="c8aaa6133a2cc676fdc45cae473101ecf05e9b01">
+		<Include>http://chan.sankakucomplex.com/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="gxp.user.js" name="共享盘" namespace="http://www.gxp.cc/" description="共享盘" version="20121127" enabled="true" runAt="document-end" basedir="gxp" modified="1354032155592" dependhash="60d3c5d56de8b90561d19c912e0a0082a4c0e868">
+		<Include>http://www.gxp.cc/file-*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+	<Script filename="xunlei.user.js" name="xunlei" namespace="http://kuai.xunlei.com" description="迅雷快传" version="121208" enabled="true" runAt="document-end" basedir="xunlei" modified="1354902419516" dependhash="c227b9ea7c0bd33135f660fe41fb37f025d296e6">
+		<Include>http://kuai.xunlei.com/d/*</Include>
+		<Require filename="jquery-132min.js"/>
+		<Require filename="util.js"/>
+	</Script>
+</UserScriptConfig>
